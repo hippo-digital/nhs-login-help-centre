@@ -12,6 +12,8 @@
         <script src=/js/search_data.js></script>
         <script src=/js/tipuesearch_set.js></script>
         <script src=/js/tipuesearch.min.js></script>
+        <script src=/js/consent-cookie.js></script>
+        <script src=/js/analytics.js></script>
         <title>Search</title>
     </head>
     <body>
@@ -165,17 +167,30 @@
 <script src=/js/header.js></script>
 </header>
 
+        <div id="nhsuk-cookie-banner" style="display:none">
+  <div class="nhsuk-cookie-banner" id="cookiebanner">
+    <div class="nhsuk-width-container">
+        <h2>Cookies on the NHS website</h2>
+        <p>We've put some small files called cookies on your device to make our site work.</p>
+        <p>We'd also like to use analytics cookies. These send information about how our site is used to services called Adobe Analytics, Hotjar and Google Analytics. We use this information to improve our site.</p>
+        <p>Let us know if this is OK. We'll use a cookie to save your choice. You can <a id="nhsuk-cookie-banner__link" href="/our-policies/cookies-policy/" tabindex="1">read more about our cookies</a> before you choose.</p>
+        <ul>
+            <li><button class="nhsuk-button" id="nhsuk-cookie-banner__link_accept_analytics" href="#" tabindex="2">I'm OK with analytics cookies</button></li>
+            <li><button class="nhsuk-button" id="nhsuk-cookie-banner__link_accept" href="#" tabindex="3">Do not use analytics cookies</button></li>
+        </ul>
+    </div>
+  </div>
+
+  <div class="nhsuk-success-banner" id="nhsuk-cookie-confirmation-banner" style="display:none;">
+    <div class="nhsuk-width-container">
+      <p id="nhsuk-success-banner__message">You can change your cookie settings at any time using our <a href="/our-policies/cookies-policy/">cookies page</a>.</p>
+    </div>
+  </div>
+</div>
+
         <div class="nhsuk-width-container">
             <main class="nhsuk-main-wrapper" role="main">
-                <nav class="nhsuk-breadcrumb" aria-label="Breadcrumb" style="background-color: #ffffff00">
-                    <ol class="nhsuk-breadcrumb__list">
-                        <li class="nhsuk-breadcrumb__item">
-                            <a class="nhsuk-breadcrumb__link" href="/">Help centre home</a>
-                        </li>
-                    </ol>
-                    
-                </nav>
-
+                
                 <div class="nhsuk-grid-row">
                     <div class="nhsuk-grid-column-three-quarters">
                         <h1 id="title">Search</h1>
@@ -198,6 +213,7 @@
             </main>
         </div>
         <script src=/js/back-link.js></script>
+        <script src=/js/cookie-banner.js></script>
         <script>
             const url = new URL(location.href);
             const query = url
