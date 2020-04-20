@@ -13993,7 +13993,6 @@ h1 + .nhsuk-lede-text {
 @media (min-width: 925px) {
     .sticky-nav {
         position: sticky;
-        height: calc(100vh - 75px);
         overflow: auto;
         top: 40px;
     }
@@ -14270,5 +14269,5 @@ h1 + .nhsuk-lede-text {
 }
 
 .article-content hr {
-  border-bottom: 2px solid #0561b9;
+  border-bottom: 3px solid #0561b9;
 }
