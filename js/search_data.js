@@ -3,7 +3,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid2011%3A-there-may-be-a-problem-with-your-nhs-number",
 				"title": "Reference CID2011: There may be a problem with your NHS number",
-				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If you see reference CID2011, this can mean there is a problem with your NHS number. Contact us so we can try to fix the problem. ***",
+				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If you see reference CID2011, this can mean there is a problem with your NHS number.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -11,7 +11,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid2012%3A-your-nhs-login-may-have-been-disabled",
 				"title": "Reference CID2012: Your NHS login may have been disabled",
-				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If reference CID2012 is shown, this can mean your information has errors or it is being used by someone else. If this happens to you, your NHS login will be disabled. Contact us so we can try to fix the problem. ***",
+				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If reference CID2012 is shown, this can mean your information has errors or it is being used by someone else. If this happens to you, your NHS login will be disabled.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -43,15 +43,31 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid7022%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system",
 				"title": "Reference CID7022: Unable to connect to your GP surgery’s system",
-				"text": "If reference CID7022 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system. To connect to your GP surgery’s system, ask your GP surgery for your registration details for their GP online services You will need: * Linkage Key (sometimes called passphrase) * O.D.S. code (sometimes called organisation code or practice I.D.) * Account I.D. Once you have these details, log into the website or app you were trying to access again. You will see the same message with reference CID7022. It will ask you to try another way to connect your NHS login to your GP surgery. Select this and then select ‘Enter your registration details’. ***",
+				"text": "If reference CID7022 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system. To connect to your GP surgery’s system, ask your GP surgery for your registration details for their GP online services. You will need: * Linkage Key (sometimes called passphrase) * O.D.S. code (sometimes called organisation code or practice I.D.) * Account I.D. Once you have these details, log into the website or app you were trying to access again. You will see the same message with reference CID7022. It will ask you to try another way to connect your NHS login to your GP surgery. Select this and then select ‘Enter your registration details’. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
 			,
 			{
-				"url": "/mixedsupport#reference-cid7023%3A-you-have-already-set-up-an-nhs-login",
-				"title": "Reference CID7023: You have already set up an NHS login",
-				"text": "If reference CID7023 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. This is because you have already set up an NHS login using a different email address. We have connected that NHS login to your GP surgery’s system. You can only connect 1 NHS login to your GP surgery’s system. If you want to change the email address on your NHS login you can do so in your NHS login settings. If you need help or do not think you have already set up an NHS login, you should contact us. ***",
+				"url": "/mixedsupport#reference-cid7023%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system",
+				"title": "Reference CID7023: Unable to connect to your GP surgery’s system",
+				"text": "If reference CID7023 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. If this happens to you, there are a number of possible reasons why.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/mixedsupport#you-have-already-set-up-an-nhs-login",
+				"title": "You have already set up an NHS login",
+				"text": "The details we use to make the connection have already been used to connect you to the website or app you are trying to visit. This can happen if you have already set up an NHS login using a different email address. We will have connected that NHS login to your GP surgery’s system. You can only connect 1 NHS login to your GP surgery’s system. If you want to change the email address on your NHS login you can do so in your NHS login settings.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/mixedsupport#the-details-we-use-are-invalid",
+				"title": "The details we use are invalid",
+				"text": "The details we use to make the connection are invalid. This can happen if: * you have changed GP surgery * your GP surgery has changed systems * you no longer have permission to use your GP surgery’s online services You can ask your GP for new registration details for their online services.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -83,7 +99,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid7029%3A-we-cannot-connect-your-nhs-login-to-your-gp-surgery",
 				"title": "Reference CID7029: We cannot connect your NHS login to your GP surgery",
-				"text": "If you see reference CID7029, this means we cannot connect your NHS login to your GP surgery. There could be a problem with your details, or with your GP surgery&#39;s system. Contact us so we can find out what is causing the problem. ***",
+				"text": "If you see reference CID7029, this means we cannot connect your NHS login to your GP surgery. There could be a problem with your details, or with your GP surgery&#39;s system.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -91,7 +107,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid7100%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system",
 				"title": "Reference CID7100: Unable to connect to your GP surgery’s system",
-				"text": "If reference CID7100 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system. Contact us so we can check you have been given the right registration details.",
+				"text": "If reference CID7100 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -211,7 +227,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/delete#how-to-manage-your-nhs-login-within-websites-and-apps",
 				"title": "How to manage your NHS login within websites and apps",
-				"text": "You should be able to manage your NHS login settings from within the websites and apps that use NHS login. Each website and app you visit may offer a different way for you to access your NHS login settings. Contact the providers of the website or app you are using if you cannot find a way to access your NHS login settings.",
+				"text": "You should be able to manage your NHS login settings from within the websites and apps that use NHS login. Each website and app you visit may offer a different way for you to access your NHS login settings. Contact the providers of the website or app you are using if you cannot find a way to access your NHS login settings. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -227,7 +243,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/delete#how-to-delete-nhs-login",
 				"title": "How to delete NHS login",
-				"text": "You can delete your NHS login by visiting your NHS login settings. . Scroll down to the bottom and select ‘delete NHS login’. You will be asked to enter your password to confirm. Once you delete your NHS login, you will not be able to use it to access any websites or apps. If you are trying to delete your account with just one website or app in particular, you should contact them directly. You may then still use your NHS login to access other websites and apps.",
+				"text": "You can delete your NHS login by visiting your NHS login settings. Scroll down to the bottom and select ‘delete NHS login’. You will be asked to enter your password to confirm. Once you delete your NHS login, you will not be able to use it to access any websites or apps. If you are trying to delete your account with just one website or app in particular, you should contact them directly. You may then still use your NHS login to access other websites and apps.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -283,31 +299,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/emailaddresses#how-to-change-your-nhs-login-email-address",
 				"title": "How to change your NHS login email address",
-				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#how-to-add-a-backup-email-address",
-				"title": "How to add a backup email address",
-				"text": "When you first set up an NHS login you are given the option to add a backup email address. This is a second email address that you own, which will help to secure your NHS login. For example, your backup email address can be used if you lose access to your mobile phone number. We can use it to send you a confirmation link, which will allow you to log in and change the mobile phone number on your NHS login. We can also use your backup email address to contact you if there is suspicious activity on your NHS login. If you did not add a backup email address when you set up your NHS login, you can do so by going to your NHS login settings. Go to the heading ‘backup methods’ and select ‘add email’. You can also remove or change an existing backup email address. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#how-to-change-your-backup-email-address",
-				"title": "How to change your backup email address",
-				"text": "You can change your backup email address by visiting your NHS login settings. Scroll down to the heading ‘backup methods’ and select ‘change email’. You will be asked to enter your new backup email address and your password. A confirmation email will be sent to your new backup email address. Select the confirm email address link in the email to finish. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#how-to-remove-your-backup-email-address",
-				"title": "How to remove your backup email address",
-				"text": "Currently there is no method for users to remove a backup email address. You need to contact us to remove a backup email address.",
+				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -363,31 +355,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#you-have-lost-access-to-your-mobile-phone-number",
 				"title": "You have lost access to your mobile phone number",
-				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login if you have a backup email address, or by telling us your NHS number. You must contact us if you do not have a backup email address and you do not know your NHS number. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#the-change-phone-number-link-in-your-backup-email-does-not-work",
-				"title": "The change phone number link in your backup email does not work",
-				"text": "Your backup email address can be used if you lose access to the mobile phone number on your NHS login. To confirm changing your phone number, you must select the confirmation link we send you. If the link does not work, there are a number of possible reasons why.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#expired-link-%E2%80%93-reference-cid3006",
-				"title": "Expired link – Reference CID3006",
-				"text": "The link to confirm changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. You will need to try change your phone number again. We will then send you a new confirmation link in your email. Contact us if you did not mean to change your phone number or you think this is a mistake.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#used-link-%E2%80%93-reference-cid3007",
-				"title": "Used link – Reference CID3007",
-				"text": "The link to confirm changing your phone number may not work because you have already used it and have successfully confirmed your change of phone number. You can change your phone number again by visiting your NHS login settings. Contact us if you did not mean to change your phone number, or you do not have access to the new phone number. ***",
+				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login if you have a backup email address, or by telling us your NHS number.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -403,7 +371,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#expired-link-%E2%80%93-reference-cid3002",
 				"title": "Expired link – Reference CID3002",
-				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings. Contact us if you did not mean to change your phone number, or you do not have access to the phone number on your NHS login.",
+				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -411,7 +379,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#used-link-%E2%80%93-reference-cid3003",
 				"title": "Used link – Reference CID3003",
-				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings. Contact us if you do not have access to the phone number on your NHS login.",
+				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -563,7 +531,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#reference-cid4002%3A-your-photo-i.d.-has-failed-to-upload",
 				"title": "Reference CID4002: Your photo I.D. has failed to upload",
-				"text": "If you see the error reference code CID4002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work. If you keep getting this message, contact us so we can try to fix the problem. Find out how to prove who you are without using photo I.D. ***",
+				"text": "If you see the error reference code CID4002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -571,7 +539,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#reference-cid8002%3A-your-photo-i.d.-has-failed-to-upload",
 				"title": "Reference CID8002: Your photo I.D. has failed to upload",
-				"text": "If you see the error reference code CID8002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work. If you keep getting this message, contact us so we can try to fix the problem. Find out how to prove who you are without using photo I.D.",
+				"text": "If you see the error reference code CID8002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -603,7 +571,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withoutid#what-to-do-if-your-registration-details-from-your-gp-surgery%E2%80%99s-online-services-do-not-work",
 				"title": "What to do if your registration details from your GP surgery’s online services do not work",
-				"text": "",
+				"text": "Your registration details from your GP surgery’s online services can be used to prove who you are. If this does not work for you, there are a number of possible reasons why. If this does not work for you there are a number of possible reasons why.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -643,7 +611,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withoutid#what-to-do-if-your-registration-details-from-your-gp-surgery%E2%80%99s-online-services-have-already-been-used",
 				"title": "What to do if your registration details from your GP surgery’s online services have already been used",
-				"text": "Reference CID7004 is shown when the registration details from your GP surgery’s online services have already been used to set up an NHS login. This can happen if you are trying to set up a new NHS login with a different email address. You can use the 3 registration details from your GP surgery’s online services only once to set up an NHS login. Once you have used them once, you cannot use them again on a different NHS login using a different email address. If you want to change the email address on your NHS login you can do so by going to your NHS login settings. If you think that someone else may have used your 3 registration details to set up an NHS login, you should contact us for help. ***",
+				"text": "Reference CID7004 is shown when the registration details from your GP surgery’s online services have already been used to set up an NHS login. This can happen if you are trying to set up a new NHS login with a different email address. You can use the 3 registration details from your GP surgery’s online services only once to set up an NHS login. Once you have used them once, you cannot use them again on a different NHS login using a different email address. If you want to change the email address on your NHS login you can do so by going to your NHS login settings.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
