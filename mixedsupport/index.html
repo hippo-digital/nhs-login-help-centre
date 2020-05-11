@@ -13,12 +13,16 @@
 
 <link rel="stylesheet" href="/css/nhs-toolkit.min.css">
 <link rel="stylesheet" href="/css/nhs-cookie-banner.css">
+<script src=/js/utils.js></script>
 <script src=/js/consent-cookie.js></script>
 <script src=/js/analytics.js></script>
 <title>Mixed reference support</title>
 
     </head>
     <body>
+        <script type="text/javascript">
+            document.body.classList.add('js-enabled');
+        </script>
         <div id="nhsuk-cookie-banner" style="display:none">
   <div class="nhsuk-cookie-banner" id="cookiebanner">
     <div class="nhsuk-width-container">
@@ -264,12 +268,12 @@
                     <h2 id="reference-cid2011%3A-there-may-be-a-problem-with-your-nhs-number">Reference CID2011: There may be a problem with your NHS number</h2>
 <p>Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely.</p>
 <p>If you see reference CID2011, this can mean there is a problem with your NHS number.</p>
-<p><a href="#" title="Contact us">Contact us</a> so we can try to fix the problem. You will need to tell us the email address you use for your NHS login.</p>
+<p><a href="/contact?error=CID2011" title="Contact us">Contact us</a> so we can try to fix the problem. You will need to tell us the email address you use for your NHS login.</p>
 <hr>
 <h2 id="reference-cid2012%3A-your-nhs-login-may-have-been-disabled">Reference CID2012: Your NHS login may have been disabled</h2>
 <p>Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely.</p>
 <p>If reference CID2012 is shown, this can mean your information has errors or it is being used by someone else. If this happens to you, your NHS login will be disabled.</p>
-<p><a href="#" title="Contact us">Contact us</a> so we can try to fix the problem. You will need to tell us the email address you use for your NHS login.</p>
+<p><a href="/contact?error=CID2012" title="Contact us">Contact us</a> so we can try to fix the problem. You will need to tell us the email address you use for your NHS login.</p>
 <hr>
 <h2 id="reference-cid2024%3A-there-is-a-technical-issue-on-our-side">Reference CID2024: There is a technical issue on our side</h2>
 <p>If reference CID2024 is shown, this means we do not know what website or app you are trying to log into. This is a technical issue on our side.</p>
@@ -318,7 +322,7 @@
 <li>you no longer have permission to use your GP surgery’s online services</li>
 </ul>
 <p>You can ask your GP for new registration details for their online services.</p>
-<p><a href="#" title="Contact us">Contact us</a> if you need help or if you still have problems.</p>
+<p><a href="/contact?error=CID7023" title="Contact us">Contact us</a> if you need help or if you still have problems.</p>
 <hr>
 <h2 id="reference-cid7024%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system">Reference CID7024: Unable to connect to your GP surgery’s system</h2>
 <p>If reference CID7024 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection.</p>
@@ -355,12 +359,12 @@
 <hr>
 <h2 id="reference-cid7029%3A-we-cannot-connect-your-nhs-login-to-your-gp-surgery">Reference CID7029: We cannot connect your NHS login to your GP surgery</h2>
 <p>If you see reference CID7029, this means we cannot connect your NHS login to your GP surgery. There could be a problem with your details, or with your GP surgery's system.</p>
-<p><a href="#" title="Contact us">Contact us</a> so we can find out what is causing the problem. You will need to tell us the email address you use for your NHS login.</p>
+<p><a href="/contact?error=CID7029" title="Contact us">Contact us</a> so we can find out what is causing the problem. You will need to tell us the email address you use for your NHS login.</p>
 <hr>
 <h2 id="reference-cid7100%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system">Reference CID7100: Unable to connect to your GP surgery’s system</h2>
 <p>If reference CID7100 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection.</p>
 <p>There could be a problem with your details, or with your GP surgery's system.</p>
-<p><a href="#" title="Contact us">Contact us</a> so we can check you have been given the right registration details. You will need to tell us the email address you use for your NHS login.</p>
+<p><a href="/contact?error=CID7029" title="Contact us">Contact us</a> so we can check you have been given the right registration details. You will need to tell us the email address you use for your NHS login.</p>
 
                 </div>
             </div>

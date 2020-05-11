@@ -3,7 +3,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid2011%3A-there-may-be-a-problem-with-your-nhs-number",
 				"title": "Reference CID2011: There may be a problem with your NHS number",
-				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If you see reference CID2011, this can mean there is a problem with your NHS number.",
+				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If you see reference CID2011, this can mean there is a problem with your NHS number. Contact us so we can try to fix the problem. You will need to tell us the email address you use for your NHS login. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -11,7 +11,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid2012%3A-your-nhs-login-may-have-been-disabled",
 				"title": "Reference CID2012: Your NHS login may have been disabled",
-				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If reference CID2012 is shown, this can mean your information has errors or it is being used by someone else. If this happens to you, your NHS login will be disabled.",
+				"text": "Every time you log in to a website or app using your NHS login, we check your NHS number. This allows us to connect you to your information securely. If reference CID2012 is shown, this can mean your information has errors or it is being used by someone else. If this happens to you, your NHS login will be disabled. Contact us so we can try to fix the problem. You will need to tell us the email address you use for your NHS login. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -67,7 +67,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#the-details-we-use-are-invalid",
 				"title": "The details we use are invalid",
-				"text": "The details we use to make the connection are invalid. This can happen if: * you have changed GP surgery * your GP surgery has changed systems * you no longer have permission to use your GP surgery’s online services You can ask your GP for new registration details for their online services.",
+				"text": "The details we use to make the connection are invalid. This can happen if: * you have changed GP surgery * your GP surgery has changed systems * you no longer have permission to use your GP surgery’s online services You can ask your GP for new registration details for their online services. Contact us if you need help or if you still have problems. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -99,7 +99,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid7029%3A-we-cannot-connect-your-nhs-login-to-your-gp-surgery",
 				"title": "Reference CID7029: We cannot connect your NHS login to your GP surgery",
-				"text": "If you see reference CID7029, this means we cannot connect your NHS login to your GP surgery. There could be a problem with your details, or with your GP surgery&#39;s system.",
+				"text": "If you see reference CID7029, this means we cannot connect your NHS login to your GP surgery. There could be a problem with your details, or with your GP surgery&#39;s system. Contact us so we can find out what is causing the problem. You will need to tell us the email address you use for your NHS login. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -107,7 +107,7 @@ var tipuesearch = {
 			{
 				"url": "/mixedsupport#reference-cid7100%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-system",
 				"title": "Reference CID7100: Unable to connect to your GP surgery’s system",
-				"text": "If reference CID7100 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system.",
+				"text": "If reference CID7100 is shown, this means the website or app you are trying to visit needs to connect to your GP surgery’s system and we have not been able to make that connection. There could be a problem with your details, or with your GP surgery&#39;s system. Contact us so we can check you have been given the right registration details. You will need to tell us the email address you use for your NHS login.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -355,7 +355,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#you-have-lost-access-to-your-mobile-phone-number",
 				"title": "You have lost access to your mobile phone number",
-				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login if you have a backup email address, or by telling us your NHS number.",
+				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login if you have a backup email address, or by telling us your NHS number. Contact us if you do not have a backup email address and you do not know your NHS number. You will need to tell us: * the email address for your NHS login * the current phone number for your NHS login * your new phone number It will also help if you can tell us about a recent time when you have tried to log into a website or app using your NHS login. Tell us the date and time, if possible. To do this you can: 1. visit a website or app that uses NHS login 2. enter your username and password 3. press continue 4. note the date and time ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -371,7 +371,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#expired-link-%E2%80%93-reference-cid3002",
 				"title": "Expired link – Reference CID3002",
-				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings.",
+				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings. Contact us if you did not mean to change your phone number, or you do not have access to the phone number on your NHS login.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -379,7 +379,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#used-link-%E2%80%93-reference-cid3003",
 				"title": "Used link – Reference CID3003",
-				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings.",
+				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings. Contact us if you do not have access to the phone number on your NHS login.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -387,7 +387,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#what-you-need-to-prove-who-you-are",
 				"title": "What you need to prove who you are",
-				"text": "You will be asked to: 1. take a photo of your I.D. 2. record your face using your device 3. enter your NHS number if you know it Your photo I.D. can be a: * passport * UK driving licence (full or provisional) * European driving licence (full) * European national identity card We ask you to record your face so that we can compare it to your photo I.D. and prove who you are. We may ask you for more details to help find your NHS record, like your date of birth or postcode. ***",
+				"text": "You will be asked to: 1. take a photo of your I.D. 2. record your face using your device 3. enter your NHS number if you know it Your photo I.D. can be a: - passport - UK driving licence (full or provisional) - European driving licence (full) - European national identity card We ask you to record your face so that we can compare it to your photo I.D. and prove who you are. We may ask you for more details to help find your NHS record, like your date of birth or postcode. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -403,7 +403,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#passport",
 				"title": "Passport",
-				"text": "To take a good photo of your passport make sure: * you have not covered any part of the page * all 4 edges of the page are in your photo * you can clearly see your face and all the text * there&#39;s no shine from a light or window",
+				"text": "To take a good photo of your passport make sure: - you have not covered any part of the page - all 4 edges of the page are in your photo - you can clearly see your face and all the text - there&#39;s no shine from a light or window",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -411,7 +411,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#driving-licence",
 				"title": "Driving licence",
-				"text": "To take a good photo of your driving licence make sure: * you do not cover any of the corners * you can clearly see your face and all the text * there&#39;s no shine from a light or window",
+				"text": "To take a good photo of your driving licence make sure: - you do not cover any of the corners - you can clearly see your face and all the text - there&#39;s no shine from a light or window",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -419,7 +419,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#european-national-identity-card",
 				"title": "European national identity card",
-				"text": "To take a good photo of your identity card make sure: * you do not cover any of the corners * you can clearly see your face and all the text * there&#39;s no shine from a light or window ***",
+				"text": "To take a good photo of your identity card make sure: - you do not cover any of the corners - you can clearly see your face and all the text - there&#39;s no shine from a light or window ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -427,7 +427,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#black-screen-shows-when-trying-to-take-a-photo",
 				"title": "Black screen shows when trying to take a photo",
-				"text": "If the camera does not open or shows a black screen when taking a photo, this may be a problem with permissions or a known bug in the operating system. You should make sure the web browser on your device has camera and microphone permissions. You must also give permission for the NHS login website to access your device’s camera and microphone. If you are using an iOS device, updating the iOS operating system software on your device to a newer version may also help. Version 11.2 will always show a black screen when trying to open the camera. There is an Apple support article that describes how to check for updates. ***",
+				"text": "If the camera does not open or shows a black screen when taking a photo, this may be a problem with permissions or a known bug in the operating system. You should make sure the web browser on your device has camera and microphone permissions. You must also give permission for the NHS login website to access your device’s camera and microphone. If you are using an iOS device, updating the iOS operating system software on your device to a newer version may also help. Version 11.2 will always show a black screen when trying to open the camera. There is an Apple support article that describes how to check for updates. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -435,7 +435,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#camera-unavailable-when-trying-to-take-a-photo",
 				"title": "Camera unavailable when trying to take a photo",
-				"text": "If your gallery or file manager opens instead of your camera when trying to take a photo, you may have an issue with permissions. You must give permission for your web browser to access the camera and microphone. If your web browser does not have permission, you will not be given the option to use the camera. Instead, your device&#39;s photo gallery or file manager app will open instead. You must also give permission for the NHS login website to access your device’s camera and microphone. If this problem keeps happening even with permissions allowed, there might be a problem with your device. You can try opening your camera app separately to take a photo of your I.D. When you have taken a photo, you can then start again and prove who you are by selecting ‘upload a photo’. If this does not work, you can also try taking a photo on another device. For example, you can use another phone or tablet that belongs to you or a family member. Find out how to prove who you are without using photo I.D. ***",
+				"text": "If your gallery or file manager opens instead of your camera when trying to take a photo, you may have an issue with permissions. You must give permission for your web browser to access the camera and microphone. If your web browser does not have permission, you will not be given the option to use the camera. Instead, your device&#39;s photo gallery or file manager app will open instead. You must also give permission for the NHS login website to access your device’s camera and microphone. If this problem keeps happening even with permissions allowed, there might be a problem with your device. You can try opening your camera app separately to take a photo of your I.D. When you have taken a photo, you can then start again and prove who you are by selecting ‘upload a photo’. If this does not work, you can also try taking a photo on another device. For example, you can use another phone or tablet that belongs to you or a family member. Find out how to prove who you are without using photo I.D. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -459,7 +459,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#ios-devices",
 				"title": "iOS devices",
-				"text": "Change permissions for apps on your iOS device. ***",
+				"text": "Change permissions for apps on your iOS device. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -499,7 +499,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#safari",
 				"title": "Safari",
-				"text": "If you are using Safari, select ‘preferences’ to open the preferences window. You can then select the ‘security’ tab and ‘manage website settings’ to view and change permissions for your camera and microphone. ***",
+				"text": "If you are using Safari, select ‘preferences’ to open the preferences window. You can then select the ‘security’ tab and ‘manage website settings’ to view and change permissions for your camera and microphone. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -507,7 +507,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#what-to-do-if-your-photo-file-is-damaged",
 				"title": "What to do if your photo file is damaged",
-				"text": "We run a virus check on the photo of your I.D. If the file you upload is infected or damaged, you can try and upload another one. If this keeps happening, there might be a problem with your device. Try taking a photo using a different device. For example, you can use another phone or tablet that belongs to you or a family member. Send the photo to your usual device and try uploading it again. Or, you can upload your photo from the other device just to prove who you are. Once you have proven who you are, you can then use NHS login on your usual device as normal. Find out how to prove who you are without using photo I.D. ***",
+				"text": "We run a virus check on the photo of your I.D. If the file you upload is infected or damaged, you can try and upload another one. If this keeps happening, there might be a problem with your device. Try taking a photo using a different device. For example, you can use another phone or tablet that belongs to you or a family member. Send the photo to your usual device and try uploading it again. Or, you can upload your photo from the other device just to prove who you are. Once you have proven who you are, you can then use NHS login on your usual device as normal. Find out how to prove who you are without using photo I.D. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -515,7 +515,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#how-long-does-it-take-to-check-photo-i.d%3F",
 				"title": "How long does it take to check photo I.D?",
-				"text": "After you send your photo I.D. and video, your photo I.D. will be carefully checked and should be done within 2 hours. If you send between 9pm and 9am it may take longer. We will let you know by email whether the I.D. check has been successful. ***",
+				"text": "After you send your photo I.D. and video, your photo I.D. will be carefully checked and should be done within 2 hours. If you send between 9pm and 9am it may take longer. We will let you know by email whether the I.D. check has been successful. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -523,7 +523,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#what-happens-if-you-do-not-pass-the-check%3F",
 				"title": "What happens if you do not pass the check?",
-				"text": "If you do not pass the photo I.D. check, we will send you an email with some advice. We will tell you whether you should try again and what you can do to pass. If you keep getting the same problem, you can prove who you are without photo I.D. instead. Find out how to prove who you are without using photo I.D. ***",
+				"text": "If you do not pass the photo I.D. check, we will send you an email with some advice. We will tell you whether you should try again and what you can do to pass. If you keep getting the same problem, you can prove who you are without photo I.D. instead. Find out how to prove who you are without using photo I.D. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -531,7 +531,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#reference-cid4002%3A-your-photo-i.d.-has-failed-to-upload",
 				"title": "Reference CID4002: Your photo I.D. has failed to upload",
-				"text": "If you see the error reference code CID4002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work.",
+				"text": "If you see the error reference code CID4002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work. Find out how to prove who you are without using photo I.D. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -539,7 +539,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withid#reference-cid8002%3A-your-photo-i.d.-has-failed-to-upload",
 				"title": "Reference CID8002: Your photo I.D. has failed to upload",
-				"text": "If you see the error reference code CID8002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work.",
+				"text": "If you see the error reference code CID8002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work. Find out how to prove who you are without using photo I.D.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -611,7 +611,7 @@ var tipuesearch = {
 			{
 				"url": "/provewhoyouare/withoutid#what-to-do-if-your-registration-details-from-your-gp-surgery%E2%80%99s-online-services-have-already-been-used",
 				"title": "What to do if your registration details from your GP surgery’s online services have already been used",
-				"text": "Reference CID7004 is shown when the registration details from your GP surgery’s online services have already been used to set up an NHS login. This can happen if you are trying to set up a new NHS login with a different email address. You can use the 3 registration details from your GP surgery’s online services only once to set up an NHS login. Once you have used them once, you cannot use them again on a different NHS login using a different email address. If you want to change the email address on your NHS login you can do so by going to your NHS login settings.",
+				"text": "Reference CID7004 is shown when the registration details from your GP surgery’s online services have already been used to set up an NHS login. This can happen if you are trying to set up a new NHS login with a different email address. You can use the 3 registration details from your GP surgery’s online services only once to set up an NHS login. Once you have used them once, you cannot use them again on a different NHS login using a different email address. If you want to change the email address on your NHS login you can do so by going to your NHS login settings. If you think this is a mistake and you have not used your 3 registration details to set up an NHS login, you should contact us for help. You will need to tell us the email address you use for your NHS login. ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
