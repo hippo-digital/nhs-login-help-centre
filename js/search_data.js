@@ -195,7 +195,7 @@ var tipuesearch = {
 			{
 				"url": "/setupnhslogin#what-is-nhs-login%3F",
 				"title": "What is NHS login?",
-				"text": "NHS login lets you access a variety of digital health and care websites and apps with just 1 username and password. To access some websites and apps, you may need to prove who you are. You only have to do this once. This is so we can connect you to your NHS record and protect your health information. When you have proved who you are, you will be able to use your NHS login to access websites and apps wherever you see &#39;NHS login&#39;. Benefits include: * a one-time set up process * a single login for different websites and apps * secure and protected health and care data More information on how to prove who you are ***",
+				"text": "NHS login lets you access a variety of digital health and care websites and apps with just one email address and password. ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -203,7 +203,7 @@ var tipuesearch = {
 			{
 				"url": "/setupnhslogin#what-you-need-to-set-up-an-nhs-login",
 				"title": "What you need to set up an NHS login",
-				"text": "You will need: * an email address * a UK mobile phone number",
+				"text": "You will need: - an email address - a UK mobile phone number",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -211,7 +211,15 @@ var tipuesearch = {
 			{
 				"url": "/setupnhslogin#what-you-need-to-do",
 				"title": "What you need to do",
-				"text": "We will send you an email containing a link. Select this link to confirm your email address. Then return to the website or app you want to access and enter your NHS login email address and password. Here, you will be asked to give your mobile phone number. A 6-digit security code will be sent by text message to your mobile phone. You will be asked to enter this code to continue. A security code will be needed to log in every time, unless you select ‘remember this device and stop sending security codes’. There is currently no option to set up an NHS login if you do not own a mobile phone. ***",
+				"text": "We will send you an email containing a link. Select this link to confirm your email address. Then return to the website or app you want to access and enter your NHS login email address and password. Here, you will be asked to give your mobile phone number. A 6-digit security code will be sent by text message to your mobile phone. You will be asked to enter this code to continue. A security code will be needed to log in every time, unless you select ‘remember this device and stop sending security codes’. Right now, you cannot set up NHS login without a mobile phone. We are working on this and hope to offer a solution to users who do not own a mobile phone in the future.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/setupnhslogin#additional-information",
+				"title": "Additional information",
+				"text": "To access some websites and apps, you may need to provide some additional information to prove who you are. This is so we can connect you to your NHS record and protect your health information. This may include your: - date of birth - NHS number - name - postcode More information on how to prove who you are ---",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -219,7 +227,7 @@ var tipuesearch = {
 			{
 				"url": "/setupnhslogin#where-you-can-use-nhs-login",
 				"title": "Where you can use NHS login",
-				"text": "NHS login can be used on any website or app that shows the NHS login button. Clicking this button will let you log into or create an account with the website or app you are visiting. Visit the NHS login webpage for a full list of websites and apps that allow you to use NHS login.",
+				"text": "NHS login can be used on any website or app that shows the NHS login button. Clicking this button will let you log into or create an account with the website or app you visit. Visit the NHS login webpage for a full list of websites and apps that allow you to use NHS login.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -355,7 +363,7 @@ var tipuesearch = {
 			{
 				"url": "/manage/phonenumber#you-have-lost-access-to-your-mobile-phone-number",
 				"title": "You have lost access to your mobile phone number",
-				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login if you have a backup email address, or by telling us your NHS number. Contact us if you do not have a backup email address and you do not know your NHS number. You will need to tell us: * the email address for your NHS login * the current phone number for your NHS login * your new phone number It will also help if you can tell us about a recent time when you have tried to log into a website or app using your NHS login. Tell us the date and time, if possible. To do this you can: 1. visit a website or app that uses NHS login 2. enter your username and password 3. press continue 4. note the date and time ***",
+				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login by telling us your NHS number. Contact us if you do not know your NHS number. You will need to tell us: * the email address for your NHS login * the current phone number for your NHS login * your new phone number It will also help if you can tell us about a recent time when you have tried to log into a website or app using your NHS login. Tell us the date and time, if possible. To do this you can: 1. visit a website or app that uses NHS login 2. enter your username and password 3. press continue 4. note the date and time ***",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
