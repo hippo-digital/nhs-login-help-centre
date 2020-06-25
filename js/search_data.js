@@ -113,46 +113,6 @@ var tipuesearch = {
 			}
 			,
 			{
-				"url": "/setupnhslogin#what-is-nhs-login%3F",
-				"title": "What is NHS login?",
-				"text": "NHS login lets you access a variety of digital health and care websites and apps with just one email address and password. ---",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/setupnhslogin#what-you-need-to-set-up-an-nhs-login",
-				"title": "What you need to set up an NHS login",
-				"text": "You will need: - an email address - a UK mobile phone number",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/setupnhslogin#what-you-need-to-do",
-				"title": "What you need to do",
-				"text": "We will send you an email containing a link. Select this link to confirm your email address. Then return to the website or app you want to access and enter your NHS login email address and password. Here, you will be asked to give your mobile phone number. A 6-digit security code will be sent by text message to your mobile phone. You will be asked to enter this code to continue. A security code will be needed to log in every time, unless you select ‘remember this device and stop sending security codes’. Right now, you cannot set up NHS login without a mobile phone. We are working on this and hope to offer a solution to users who do not own a mobile phone in the future.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/setupnhslogin#additional-information",
-				"title": "Additional information",
-				"text": "To access some websites and apps, you may need to provide some additional information to prove who you are. This is so we can connect you to your NHS record and protect your health information. This may include your: - date of birth - NHS number - name - postcode More information on how to prove who you are ---",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/setupnhslogin#where-you-can-use-nhs-login",
-				"title": "Where you can use NHS login",
-				"text": "NHS login can be used on any website or app that shows the NHS login button. Clicking this button will let you log into or create an account with the website or app you visit. Visit the NHS login webpage for a full list of websites and apps that allow you to use NHS login.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
 				"url": "/recordvideo#how-to-record-a-short-video",
 				"title": "How to record a short video",
 				"text": "To record a good short video, make sure: * your entire face is visible * you face the camera directly * your face is not covered by a hat or glasses You will be asked to repeat 4 randomly generated numbers. You can say the numbers out loud or write them down and show them. If you say the numbers, make sure your voice is loud and clear. If you write the numbers down, make sure they are clear and the paper is not held in front of your face. ***",
@@ -233,6 +193,46 @@ var tipuesearch = {
 			}
 			,
 			{
+				"url": "/setupnhslogin#what-is-nhs-login%3F",
+				"title": "What is NHS login?",
+				"text": "NHS login lets you access a variety of digital health and care websites and apps with just one email address and password. ---",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/setupnhslogin#what-you-need-to-set-up-an-nhs-login",
+				"title": "What you need to set up an NHS login",
+				"text": "You will need: - an email address - a UK mobile phone number",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/setupnhslogin#what-you-need-to-do",
+				"title": "What you need to do",
+				"text": "We will send you an email containing a link. Select this link to confirm your email address. Then return to the website or app you want to access and enter your NHS login email address and password. Here, you will be asked to give your mobile phone number. A 6-digit security code will be sent by text message to your mobile phone. You will be asked to enter this code to continue. A security code will be needed to log in every time, unless you select ‘remember this device and stop sending security codes’. Right now, you cannot set up NHS login without a mobile phone. We are working on this and hope to offer a solution to users who do not own a mobile phone in the future.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/setupnhslogin#additional-information",
+				"title": "Additional information",
+				"text": "To access some websites and apps, you may need to provide some additional information to prove who you are. This is so we can connect you to your NHS record and protect your health information. This may include your: - date of birth - NHS number - name - postcode More information on how to prove who you are ---",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/setupnhslogin#where-you-can-use-nhs-login",
+				"title": "Where you can use NHS login",
+				"text": "NHS login can be used on any website or app that shows the NHS login button. Clicking this button will let you log into or create an account with the website or app you visit. Visit the NHS login webpage for a full list of websites and apps that allow you to use NHS login.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
 				"url": "/manage/delete#how-to-manage-your-nhs-login-within-websites-and-apps",
 				"title": "How to manage your NHS login within websites and apps",
 				"text": "You should be able to manage your NHS login settings from within the websites and apps that use NHS login. Each website and app you visit may offer a different way for you to access your NHS login settings. Contact the providers of the website or app you are using if you cannot find a way to access your NHS login settings. ---",
@@ -268,6 +268,46 @@ var tipuesearch = {
 				"url": "/manage/devices#how-to-remove-a-remembered-device",
 				"title": "How to remove a remembered device",
 				"text": "You can remove any of your remembered devices by going to your NHS login settings. Under the heading ‘remembered devices’ select ‘remove device’ next to the device you want to remove from your NHS login. If you use NHS login on that device again, you will need to enter a security code we send to your phone.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#the-confirm-email-address-link-in-your-email-does-not-work",
+				"title": "The confirm email address link in your email does not work",
+				"text": "You need to confirm your email address when you set up an NHS login. To do this, you must select the confirm email address link we send you. If the link in your email does not work, there are a number of possible reasons why.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#broken-link-%E2%80%93-reference-cid1001",
+				"title": "Broken link – Reference CID1001",
+				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If this happens, you can try selecting the link in your email again. If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#expired-link-%E2%80%93-reference-cid1002",
+				"title": "Expired link – Reference CID1002",
+				"text": "The confirm email address link we send you has a time limit of 24 hours. If it has been more than 24 hours since you received the email, the link will not work. You need to go back to the website or app you were trying to access and enter your email address and password again. You will be sent another confirm email address link to set up your NHS login.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#used-link-%E2%80%93-reference-cid1003",
+				"title": "Used link – Reference CID1003",
+				"text": "The confirm email address link may not work because you have already used it and have successfully confirmed your email address. Try using your NHS login to log in to a website or app. ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#how-to-change-your-nhs-login-email-address",
+				"title": "How to change your NHS login email address",
+				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
@@ -508,46 +548,6 @@ var tipuesearch = {
 				"url": "/provewhoyouare/withid#reference-cid8002%3A-your-photo-i.d.-has-failed-to-upload",
 				"title": "Reference CID8002: Your photo I.D. has failed to upload",
 				"text": "If you see the error reference code CID8002, this is because the picture of your photo I.D. has failed to upload. If this keeps happening there may be a problem with your internet connection, or a technical problem on our side. You can try uploading a photo of your I.D. another time or use a better internet connection. For example, you should make sure you are using Wi-Fi instead of your phone’s cellular data. Try using a different Wi-Fi connection if the one you are using doesn’t work. Find out how to prove who you are without using photo I.D.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#the-confirm-email-address-link-in-your-email-does-not-work",
-				"title": "The confirm email address link in your email does not work",
-				"text": "You need to confirm your email address when you set up an NHS login. To do this, you must select the confirm email address link we send you. If the link in your email does not work, there are a number of possible reasons why.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#broken-link-%E2%80%93-reference-cid1001",
-				"title": "Broken link – Reference CID1001",
-				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If this happens, you can try selecting the link in your email again. If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#expired-link-%E2%80%93-reference-cid1002",
-				"title": "Expired link – Reference CID1002",
-				"text": "The confirm email address link we send you has a time limit of 24 hours. If it has been more than 24 hours since you received the email, the link will not work. You need to go back to the website or app you were trying to access and enter your email address and password again. You will be sent another confirm email address link to set up your NHS login.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#used-link-%E2%80%93-reference-cid1003",
-				"title": "Used link – Reference CID1003",
-				"text": "The confirm email address link may not work because you have already used it and have successfully confirmed your email address. Try using your NHS login to log in to a website or app. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#how-to-change-your-nhs-login-email-address",
-				"title": "How to change your NHS login email address",
-				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
