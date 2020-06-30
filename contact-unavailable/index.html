@@ -67,8 +67,8 @@
 <script src="https://cdn.jsdelivr.net/npm/luxon@1.24.1/build/global/luxon.min.js"></script>
 <script src=/js/time.js></script>
 <script>
-    if (!Time.isContactFormAvailable()) {
-        window.location.replace('/contact-unavailable');
+    if (Time.isContactFormAvailable()) {
+        window.location.replace('/contact');
     }
 </script>
 
@@ -225,24 +225,12 @@
 <div class="nhsuk-width-container ">
     <main class="nhsuk-main-wrapper " id="maincontent" role="main">
         <div class="nhsuk-grid-row">
-            <form id="contact-us-form" class="nhsuk-grid-column-two-thirds nhs-help-centre__form">
-                <h2 class="nhsuk-app-contact-panel__heading">Contact us</h2>
-            
-                <div class="nhsuk-error-summary nhsuk-error-summary--hidden" aria-labelledby="error-summary-title"
-                    role="alert" tabindex="-1">
-                    <h2 class="nhsuk-error-summary__title">
-                        There is a problem
-                    </h2>
-                    <div class="nhsuk-error-summary__body">
-                        <ul class="nhsuk-list nhsuk-error-summary__list"></ul>
-                    </div>
-                </div>
+            <div class="nhsuk-grid-column-two-thirds">
+                <h2>Sorry, we are unable to take messages at this time</h2>
+                <p>You can contact us Monday to Friday, 9:30am to 4:30pm.</p>
+                <p>Please come back and try again during these times.</p>
 
-                <p>Use this form to get help or advice for a problem or issue with NHS login. The NHS login team cannot
-                    help with medical problems.
-                </p>
-
-                <details class="nhsuk-details">
+                 <details class="nhsuk-details">
                     <summary class="nhsuk-details__summary" role="button" aria-controls="nhsuk-details__text0" tabindex="-1">
                         <span class="nhsuk-details__summary-text">
                             What to do if you need medical help
@@ -267,55 +255,10 @@
                         </ul>
                     </div>
                 </details>
-
-                <div class="nhsuk-form-group" id="name-form-control">
-                    <label class="nhsuk-label" for="name">
-                        Name
-                    </label>
-                    <span class="nhsuk-error-message nhs-help-centre__form-control-error"></span>
-                    <input class="nhsuk-input nhsuk-u-width-one-half nhs-help-centre__form-control-input" id="name"
-                        name="name" type="text">
-                </div>
-
-                <div class="nhsuk-form-group" id="email-form-control">
-                    <label class="nhsuk-label" for="email">
-                        Email address
-                    </label>
-                    <span class="nhsuk-hint">
-                        This is the email address we will contact you on.
-                    </span>
-                    <span class="nhsuk-error-message nhs-help-centre__form-control-error"></span>
-                    <input class="nhsuk-input nhsuk-u-width-two-thirds nhs-help-centre__form-control-input" id="email"
-                        name="email" type="text">
-                </div>
-
-                <div class="nhsuk-form-group">
-                    <label class="nhsuk-label" for="errorcode">
-                        Problem or issue
-                    </label>
-                    <select class="nhsuk-select" id="errorcode" name="errorcode"><option value="CID2011">CID2011: There may be a problem with your NHS number</option><option value="CID2012">CID2012: Your NHS login may have been disabled</option><option value="CID7023">CID7023: The details we use are invalid</option><option value="CID7029">CID7029: We cannot connect your NHS login to your GP surgery</option><option value="CID7029">CID7029: Unable to connect to your GP surgery’s system</option><option value="CID3001">CID3001: You have lost access to your mobile phone number</option><option value="CID3002">CID3002: Expired link – Reference CID3002</option><option value="CID3003">CID3003: Used link – Reference CID3003</option><option value="CID7004">CID7004: What to do if your registration details from your GP surgery’s online services have already been used</option></select>
-                </div>
-
-                <div class="nhsuk-form-group" id="message-form-control">
-                    <label class="nhsuk-label" for="message">
-                        Message
-                    </label>
-                    <span class="nhsuk-hint">
-                        Enter as much detail as you can, including any information we may have asked you to provide.
-                    </span>
-                    <span class="nhsuk-error-message nhs-help-centre__form-control-error"></span>
-                    <textarea class="nhsuk-textarea nhs-help-centre__form-control-input" id="message" name="message"
-                        rows="6" aria-describedby="message-hint"></textarea>
-                </div>
-
-                <button class="nhsuk-button">
-                    Send message
-                </button>
+            </div>
         </div>
+    </main>
 </div>
-</main>
-</div>
-<script src=/js/contact-page.js></script>
 <footer role="contentinfo">
   <div class="nhsuk-footer" id="nhsuk-footer">
     <div class="nhsuk-width-container">
