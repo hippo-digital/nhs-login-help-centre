@@ -63,16 +63,7 @@
   </div>
 </div>
 
-        <script src="https://cdn.polyfill.io/v3/polyfill.js?features=default,String.prototype.repeat,Array.prototype.find,Array.prototype.findIndex,Math.trunc,Math.sign,Object.is,Intl.~locale.en-GB"></script>
-<script src="https://cdn.jsdelivr.net/npm/luxon@1.24.1/build/global/luxon.min.js"></script>
-<script src=/js/time.js></script>
-<script>
-    if (!Time.isContactFormAvailable()) {
-        window.location.replace('/contact-unavailable');
-    }
-</script>
-
-<header class="nhsuk-header" role="banner">
+        <header class="nhsuk-header" role="banner">
   <div class="nhsuk-width-container nhsuk-header__container">
     <div class="nhsuk-header__logo">
       <a class="nhsuk-header__link nhsuk-header__link--service nhsuk-header__link--service-short-name" href="/">
@@ -293,7 +284,7 @@
                     <label class="nhsuk-label" for="errorcode">
                         Problem or issue
                     </label>
-                    <select class="nhsuk-select" id="errorcode" name="errorcode"><option value="CID2011">CID2011: There may be a problem with your NHS number</option><option value="CID2012">CID2012: Your NHS login may have been disabled</option><option value="CID7023">CID7023: The details we use are invalid</option><option value="CID7029">CID7029: We cannot connect your NHS login to your GP surgery</option><option value="CID7029">CID7029: Unable to connect to your GP surgery’s system</option><option value="CID3001">CID3001: You have lost access to your mobile phone number</option><option value="CID3002">CID3002: Expired link – Reference CID3002</option><option value="CID3003">CID3003: Used link – Reference CID3003</option><option value="CID7004">CID7004: What to do if your registration details from your GP surgery’s online services have already been used</option></select>
+                    <select class="nhsuk-select" id="errorcode" name="errorcode"><option value="CID2011">CID2011: There may be a problem with your NHS number</option><option value="CID2012">CID2012: Your NHS login may have been disabled</option><option value="CID7023">CID7023: The details we use are invalid</option><option value="CID7029">CID7029: We cannot connect your NHS login to your GP surgery</option><option value="CID7029">CID7029: Unable to connect to your GP surgery’s system</option><option value="CID7004">CID7004: What to do if your registration details from your GP surgery’s online services have already been used</option><option value="CID3001">CID3001: You have lost access to your mobile phone number</option><option value="CID3002">CID3002: Expired link – Reference CID3002</option><option value="CID3003">CID3003: Used link – Reference CID3003</option></select>
                 </div>
 
                 <div class="nhsuk-form-group" id="message-form-control">

@@ -233,166 +233,6 @@ var tipuesearch = {
 			}
 			,
 			{
-				"url": "/manage/delete#how-to-manage-your-nhs-login-within-websites-and-apps",
-				"title": "How to manage your NHS login within websites and apps",
-				"text": "You should be able to manage your NHS login settings from within the websites and apps that use NHS login. Each website and app you visit may offer a different way for you to access your NHS login settings. Contact the providers of the website or app you are using if you cannot find a way to access your NHS login settings. ---",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/delete#managing-nhs-login-from-the-nhs-app",
-				"title": "Managing NHS login from the NHS App",
-				"text": "At present there is no option to manage your NHS login settings within the NHS App. This is something we are currently working towards. However, you can do this by selecting this link: https://settings.login.nhs.uk/. For security reasons, you will need to log in with your usual NHS login details before you can change any of your details. ---",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/delete#how-to-delete-nhs-login",
-				"title": "How to delete NHS login",
-				"text": "You can delete your NHS login by visiting your NHS login settings. Scroll down to the bottom and select ‘delete NHS login’. You will be asked to enter your password to confirm. Once you delete your NHS login, you will not be able to use it to access any websites or apps. If you are trying to delete your account with just one website or app in particular, you should contact them directly. You may then still use your NHS login to access other websites and apps. If you delete your NHS login, any websites or apps you have used with NHS login may keep some information about you in line with their terms and conditions and privacy notice. We may also keep some information about you in line with NHS login&#39;s privacy notice",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/devices#how-to-add-a-remembered-device",
-				"title": "How to add a remembered device",
-				"text": "When you log in and enter your 6-digit security code, you have the option to select ‘remember this device and stop sending security codes’. If you select this, you will not need to enter a security code each time you log in with the same device in future. To keep your NHS login secure, you should only do this on your own personal or trusted devices. For security, we may ask you from time to time if you still want us to remember your device. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/devices#how-to-remove-a-remembered-device",
-				"title": "How to remove a remembered device",
-				"text": "You can remove any of your remembered devices by going to your NHS login settings. Under the heading ‘remembered devices’ select ‘remove device’ next to the device you want to remove from your NHS login. If you use NHS login on that device again, you will need to enter a security code we send to your phone.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#the-confirm-email-address-link-in-your-email-does-not-work",
-				"title": "The confirm email address link in your email does not work",
-				"text": "You need to confirm your email address when you set up an NHS login. To do this, you must select the confirm email address link we send you. If the link in your email does not work, there are a number of possible reasons why.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#broken-link-%E2%80%93-reference-cid1001",
-				"title": "Broken link – Reference CID1001",
-				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If this happens, you can try selecting the link in your email again. If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#expired-link-%E2%80%93-reference-cid1002",
-				"title": "Expired link – Reference CID1002",
-				"text": "The confirm email address link we send you has a time limit of 24 hours. If it has been more than 24 hours since you received the email, the link will not work. You need to go back to the website or app you were trying to access and enter your email address and password again. You will be sent another confirm email address link to set up your NHS login.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#used-link-%E2%80%93-reference-cid1003",
-				"title": "Used link – Reference CID1003",
-				"text": "The confirm email address link may not work because you have already used it and have successfully confirmed your email address. Try using your NHS login to log in to a website or app. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/emailaddresses#how-to-change-your-nhs-login-email-address",
-				"title": "How to change your NHS login email address",
-				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/passwords#how-to-change-your-nhs-login-password",
-				"title": "How to change your NHS login password",
-				"text": "You can change your password by visiting your NHS login settings. Under the heading ‘your personal information’ select ‘change password’. You will be asked to enter your current password, and then your new one to confirm the change. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/passwords#the-reset-password-link-in-your-email-does-not-work",
-				"title": "The reset password link in your email does not work",
-				"text": "You can reset your NHS login password if you forget what it is. We will send a reset password link to your email address. If the reset password link in your email does not work, there are a number of possible reasons why.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/passwords#expired-link-%E2%80%93-reference-cid2021",
-				"title": "Expired link – Reference CID2021",
-				"text": "The rest password link we email to you has a time limit of 1 hour. If it has been more than 1 hour since you received the email, the reset password link will no longer work. You need to go back to the website or app you were trying to access and enter your email address again. Send another request to reset your password. Make sure to select the reset password link in your email within the 1 hour time limit.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/passwords#used-link-%E2%80%93-reference-cid2022",
-				"title": "Used link – Reference CID2022",
-				"text": "The reset password link may not work because you have already used it and have successfully changed your password. Try logging into a service using your new NHS login password.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/passwords#broken-link-%E2%80%93-reference-cid2023",
-				"title": "Broken link – Reference CID2023",
-				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address. If this still does not work, you can start again and send another request to reset your password.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#how-to-change-your-mobile-phone-number",
-				"title": "How to change your mobile phone number",
-				"text": "You can change your phone number by visiting your NHS login settings. Under the heading ‘your personal information’ select ‘change phone number’. To visit your NHS login settings, you first need to log in with your NHS login details. To do this, you need access to your previous mobile phone or phone number that is currently on your NHS login. ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#you-have-lost-access-to-your-mobile-phone-number",
-				"title": "You have lost access to your mobile phone number",
-				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login by telling us your NHS number. Contact us if you do not know your NHS number. You will need to tell us: * the email address for your NHS login * the current phone number for your NHS login * your new phone number It will also help if you can tell us about a recent time when you have tried to log into a website or app using your NHS login. Tell us the date and time, if possible. To do this you can: 1. visit a website or app that uses NHS login 2. enter your username and password 3. press continue 4. note the date and time ***",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#the-link-to-cancel-changing-your-phone-number-does-not-work",
-				"title": "The link to cancel changing your phone number does not work",
-				"text": "To cancel changing your phone number on NHS login, you must select the confirmation link we send you. If the link does not work, there are a number of possible reasons why.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#expired-link-%E2%80%93-reference-cid3002",
-				"title": "Expired link – Reference CID3002",
-				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings. Contact us if you did not mean to change your phone number, or you do not have access to the phone number on your NHS login.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
-				"url": "/manage/phonenumber#used-link-%E2%80%93-reference-cid3003",
-				"title": "Used link – Reference CID3003",
-				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings. Contact us if you do not have access to the phone number on your NHS login.",
-				"tags": "",
-				"hasSearchExcerpt": false
-			}
-			,
-			{
 				"url": "/provewhoyouare/withid#what-you-need-to-prove-who-you-are",
 				"title": "What you need to prove who you are",
 				"text": "You will be asked to: 1. take a photo of your I.D. 2. record your face using your device 3. enter your NHS number if you know it Your photo I.D. can be a: - passport - UK driving licence (full or provisional) - European driving licence (full) - European national identity card We ask you to record your face so that we can compare it to your photo I.D. and prove who you are. We may ask you for more details to help find your NHS record, like your date of birth or postcode. ---",
@@ -628,6 +468,166 @@ var tipuesearch = {
 				"url": "/provewhoyouare/withoutid#reference-cid2020%3A-unable-to-connect-to-your-gp-surgery%E2%80%99s-online-services",
 				"title": "Reference CID2020: Unable to connect to your GP surgery’s online services",
 				"text": "Reference CID2020 is shown when the registration details from your GP surgery’s online services are invalid. This means we cannot connect you to your GP surgery’s online services. This could be because: * you have changed GP surgery * your GP surgery has changed systems * you do not have permission to use your GP surgery’s online services You can ask your GP for new registration details for their online services. You can use these new details to try to prove who you are. Find out how you can use photo I.D. to prove who you are instead.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/delete#how-to-manage-your-nhs-login-within-websites-and-apps",
+				"title": "How to manage your NHS login within websites and apps",
+				"text": "You should be able to manage your NHS login settings from within the websites and apps that use NHS login. Each website and app you visit may offer a different way for you to access your NHS login settings. Contact the providers of the website or app you are using if you cannot find a way to access your NHS login settings. ---",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/delete#managing-nhs-login-from-the-nhs-app",
+				"title": "Managing NHS login from the NHS App",
+				"text": "At present there is no option to manage your NHS login settings within the NHS App. This is something we are currently working towards. However, you can do this by selecting this link: https://settings.login.nhs.uk/. For security reasons, you will need to log in with your usual NHS login details before you can change any of your details. ---",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/delete#how-to-delete-nhs-login",
+				"title": "How to delete NHS login",
+				"text": "You can delete your NHS login by visiting your NHS login settings. Scroll down to the bottom and select ‘delete NHS login’. You will be asked to enter your password to confirm. Once you delete your NHS login, you will not be able to use it to access any websites or apps. If you are trying to delete your account with just one website or app in particular, you should contact them directly. You may then still use your NHS login to access other websites and apps. If you delete your NHS login, any websites or apps you have used with NHS login may keep some information about you in line with their terms and conditions and privacy notice. We may also keep some information about you in line with NHS login&#39;s privacy notice",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/devices#how-to-add-a-remembered-device",
+				"title": "How to add a remembered device",
+				"text": "When you log in and enter your 6-digit security code, you have the option to select ‘remember this device and stop sending security codes’. If you select this, you will not need to enter a security code each time you log in with the same device in future. To keep your NHS login secure, you should only do this on your own personal or trusted devices. For security, we may ask you from time to time if you still want us to remember your device. ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/devices#how-to-remove-a-remembered-device",
+				"title": "How to remove a remembered device",
+				"text": "You can remove any of your remembered devices by going to your NHS login settings. Under the heading ‘remembered devices’ select ‘remove device’ next to the device you want to remove from your NHS login. If you use NHS login on that device again, you will need to enter a security code we send to your phone.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#the-confirm-email-address-link-in-your-email-does-not-work",
+				"title": "The confirm email address link in your email does not work",
+				"text": "You need to confirm your email address when you set up an NHS login. To do this, you must select the confirm email address link we send you. If the link in your email does not work, there are a number of possible reasons why.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#broken-link-%E2%80%93-reference-cid1001",
+				"title": "Broken link – Reference CID1001",
+				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If this happens, you can try selecting the link in your email again. If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#expired-link-%E2%80%93-reference-cid1002",
+				"title": "Expired link – Reference CID1002",
+				"text": "The confirm email address link we send you has a time limit of 24 hours. If it has been more than 24 hours since you received the email, the link will not work. You need to go back to the website or app you were trying to access and enter your email address and password again. You will be sent another confirm email address link to set up your NHS login.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#used-link-%E2%80%93-reference-cid1003",
+				"title": "Used link – Reference CID1003",
+				"text": "The confirm email address link may not work because you have already used it and have successfully confirmed your email address. Try using your NHS login to log in to a website or app. ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/emailaddresses#how-to-change-your-nhs-login-email-address",
+				"title": "How to change your NHS login email address",
+				"text": "You can change your email address by going to your NHS login settings. Under the heading ‘your personal information’ select ‘change email address’. You will be asked to enter your new email address and your password. A confirmation email will be sent to your new email address. Select the confirm email address link in the email to finish.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/passwords#how-to-change-your-nhs-login-password",
+				"title": "How to change your NHS login password",
+				"text": "You can change your password by visiting your NHS login settings. Under the heading ‘your personal information’ select ‘change password’. You will be asked to enter your current password, and then your new one to confirm the change. ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/passwords#the-reset-password-link-in-your-email-does-not-work",
+				"title": "The reset password link in your email does not work",
+				"text": "You can reset your NHS login password if you forget what it is. We will send a reset password link to your email address. If the reset password link in your email does not work, there are a number of possible reasons why.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/passwords#expired-link-%E2%80%93-reference-cid2021",
+				"title": "Expired link – Reference CID2021",
+				"text": "The rest password link we email to you has a time limit of 1 hour. If it has been more than 1 hour since you received the email, the reset password link will no longer work. You need to go back to the website or app you were trying to access and enter your email address again. Send another request to reset your password. Make sure to select the reset password link in your email within the 1 hour time limit.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/passwords#used-link-%E2%80%93-reference-cid2022",
+				"title": "Used link – Reference CID2022",
+				"text": "The reset password link may not work because you have already used it and have successfully changed your password. Try logging into a service using your new NHS login password.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/passwords#broken-link-%E2%80%93-reference-cid2023",
+				"title": "Broken link – Reference CID2023",
+				"text": "A broken link can happen if: * you copy or type the link from the email and make a mistake * a technical error occurs If you type the web address, check it is correct. If you paste the web address, make sure you copy the full address. If this still does not work, you can start again and send another request to reset your password.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/phonenumber#how-to-change-your-mobile-phone-number",
+				"title": "How to change your mobile phone number",
+				"text": "You can change your phone number by visiting your NHS login settings. Under the heading ‘your personal information’ select ‘change phone number’. To visit your NHS login settings, you first need to log in with your NHS login details. To do this, you need access to your previous mobile phone or phone number that is currently on your NHS login. ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/phonenumber#you-have-lost-access-to-your-mobile-phone-number",
+				"title": "You have lost access to your mobile phone number",
+				"text": "If you see reference CID3001, this is because you no longer have access to the phone number on your NHS login. You can change the phone number on your NHS login by telling us your NHS number. Contact us if you do not know your NHS number. You will need to tell us: * the email address for your NHS login * the current phone number for your NHS login * your new phone number It will also help if you can tell us about a recent time when you have tried to log into a website or app using your NHS login. Tell us the date and time, if possible. To do this you can: 1. visit a website or app that uses NHS login 2. enter your username and password 3. press continue 4. note the date and time ***",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/phonenumber#the-link-to-cancel-changing-your-phone-number-does-not-work",
+				"title": "The link to cancel changing your phone number does not work",
+				"text": "To cancel changing your phone number on NHS login, you must select the confirmation link we send you. If the link does not work, there are a number of possible reasons why.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/phonenumber#expired-link-%E2%80%93-reference-cid3002",
+				"title": "Expired link – Reference CID3002",
+				"text": "The link to cancel changing your phone number has a time limit of 24 hours. If it has been more than 24 hours since you received the link in your email, it will no longer work. As it has been more than 24 hours, it may be too late to cancel as the phone number may have already been changed. You can check or change your phone number by visiting your NHS login settings. Contact us if you did not mean to change your phone number, or you do not have access to the phone number on your NHS login.",
+				"tags": "",
+				"hasSearchExcerpt": false
+			}
+			,
+			{
+				"url": "/manage/phonenumber#used-link-%E2%80%93-reference-cid3003",
+				"title": "Used link – Reference CID3003",
+				"text": "The link to cancel changing your phone number may not work because you have already used it and have successfully cancelled changing your phone number. You can check or change your phone number by visiting your NHS login settings. Contact us if you do not have access to the phone number on your NHS login.",
 				"tags": "",
 				"hasSearchExcerpt": false
 			}
